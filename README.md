@@ -1,4 +1,4 @@
-[![jeslsy's GitHub stats](https://github-readme-stats.vercel.app./api?username=jeslsy&show_icons=true&theme=radical)]
+[![jeslsy's GitHub stats](https://github-readme-stats.vercel.app./api?username=jeslsy&show_icons=true&theme=dark)]
 
 ### Hi there 👋
 
