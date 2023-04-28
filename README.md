@@ -3,7 +3,7 @@
 
 
 <h3 align="center">💻 Tech Stack 💻</h3>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
   <br>
@@ -18,6 +18,7 @@
 
 <h2></h2>
 <h3 align="center">💟 About Me 💟</h3>
+<p align="center">
 * I hope to work as a `data engineer`.
 <br>
 * I am someone who is passionate about things that spark my curiosity🧐.
@@ -25,9 +26,13 @@
 * Once I commit to something, I give it my all🔥.
 <br>
 * 😙 Fun fact: I grow cherry tomatoes🍅, I am caring for it affectionately, believing that it showcases my abilities visibly.<br>
+</p>
 
 <h2></h2>
 <h3 align="center">🌈 My stats 🌈</h3>
-
+<p align="center">
+  
 ![Suyoung's GitHub stats](https://github-readme-stats.vercel.app./api?username=jeslsy&show_icons=true&theme=dracula)
+  
+ </p>
 
