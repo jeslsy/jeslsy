@@ -18,12 +18,12 @@
 
 
  <!--[Suyoung's GitHub stats](https://github-readme-stats.vercel.app./api?username=jeslsy&show_icons=true&theme=white) -->
+---
 
 
-
-* 🌱 I’m currently learning data engineering.<br>
-* 🧐 I am someone who is passionate about things that spark my curiosity. <br>(Once I commit to something, I give it my all.)<br>
-* 🍅 Fun fact:I grow cherry tomatoes, <br>and I care for them affectionately as I feel that they are a reflection of my abilities.<br>
+* I’m currently learning data engineering.<br>
+* I am someone who is passionate about things that spark my curiosity🧐. <br>* (Once I commit to something, I give it my all.)<br>
+* Fun fact:I grow `cherry tomatoes🍅`,and I care for them affectionately as I feel that they are a reflection of my abilities.<br>
 
 
 
