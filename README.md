@@ -30,7 +30,10 @@
 
 <h2></h2>
 <h3 align="center">🌈 My stats 🌈</h3>
+<div align="center">
 
 ![Suyoung's GitHub stats](https://github-readme-stats.vercel.app./api?username=jeslsy&show_icons=true&theme=dracula)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jeslsy)](https://solved.ac/jeslsy)
+
+</div>
