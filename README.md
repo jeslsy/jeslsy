@@ -21,10 +21,10 @@
 
 <h2></h2>
 
-* I’m currently learning data engineering.<br>
-* I am someone who is passionate about things that spark my curiosity🧐.<br>
+* I’m currently learning `data engineering`.<br>
+* I am someone who is `passionate` about things that spark my `curiosity`🧐.<br>
 * Once I commit to something, I give it my all.<br>
-* Fun fact:I grow `cherry tomatoes🍅`,and I care for them affectionately as I feel that they are a reflection of my abilities.<br>
+* 😙 Fun fact: I grow `cherry tomatoes🍅`, I am caring for it affectionately, believing that it showcases my abilities visibly.<br>
 
 
 
