@@ -33,4 +33,4 @@
 
 ![Suyoung's GitHub stats](https://github-readme-stats.vercel.app./api?username=jeslsy&show_icons=true&theme=dracula)
 
-![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/profile/jeslsy)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jeslsy)](https://solved.ac/jeslsy)
