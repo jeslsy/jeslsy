@@ -27,7 +27,7 @@
 * 😙 Fun fact: I grow `cherry tomatoes🍅`, I am caring for it affectionately, believing that it showcases my abilities visibly.<br>
 
 <h2></h2>
-<h3>💟 SuYoung's stats 🌱🌱🌿🌿⭐️⭐️🔥🔥⚡️⚡️🌈🌈💟</h3>
+<h3>🌈 My stats 🌈</h3>
 
 ![Suyoung's GitHub stats](https://github-readme-stats.vercel.app./api?username=jeslsy&show_icons=true&theme=black)
 
