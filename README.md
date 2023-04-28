@@ -17,12 +17,12 @@
 </p>
 
 
- <!--[jeslsy's GitHub stats](https://github-readme-stats.vercel.app./api?username=jeslsy&show_icons=true&theme=dark) -->
+ <!--[Suyoung's GitHub stats](https://github-readme-stats.vercel.app./api?username=jeslsy&show_icons=true&theme=white) -->
 
 
 
-🌱 I’m currently learning ...
-who am i
+[] 🌱 I’m currently learning ...
+👩🏻‍💻 who am i
 i like
 - ⚡ Fun fact: ...
 
