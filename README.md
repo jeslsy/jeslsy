@@ -21,9 +21,9 @@
 
 
 
-🌱 I’m currently learning data engineering.
-🧐 I am someone who is passionate about things that spark my curiosity. (Once I commit to something, I give it my all.)
-🍅 I grow cherry tomatoes, and I care for them affectionately as I feel that they are a reflection of my abilities.
-⚡ Fun fact: ...
+🌱 I’m currently learning data engineering.<br>
+🧐 I am someone who is passionate about things that spark my curiosity. (Once I commit to something, I give it my all.)<br>
+🍅 Fun fact:I grow cherry tomatoes, and I care for them affectionately as I feel that they are a reflection of my abilities.<br>
+
 
 
