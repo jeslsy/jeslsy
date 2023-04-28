@@ -17,8 +17,8 @@
 </p>
 
 <h2></h2>
-<h3>💟 About Me 💟</h3>
-* I hope to work as a `data engineer`.
+<h3>🌈 About Me 🌈</h3>
+* I hope to work as a <U>**data engineer**<U>.
 <br>
 * I am someone who is passionate about things that spark my curiosity🧐.
 <br>
@@ -27,7 +27,7 @@
 * 😙 Fun fact: I grow cherry tomatoes🍅, I am caring for it affectionately, believing that it showcases my abilities visibly.<br>
 
 <h2></h2>
-<h3>🌈 My stats 🌈</h3>
+<h3>🌟🌵 My stats 🌈</h3>
 
 ![Suyoung's GitHub stats](https://github-readme-stats.vercel.app./api?username=jeslsy&show_icons=true&theme=black)
 
