@@ -33,7 +33,7 @@
 <h3 align="center">🌈 My stats 🌈</h3>
 <div align="center">
 
-![jeslsy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-soohyeon&show_icons=true&theme=radical)
+![jeslsy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-soohyeon&show_icons=true&theme=dark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeslsy)](https://solved.ac/jeslsy/)
 
 </div>
