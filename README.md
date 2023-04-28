@@ -19,7 +19,6 @@
 <h2></h2>
 <h3 align="center">💟 About Me 💟</h3>
 <p align="center">
-  
 * I hope to work as a `data engineer`.
 <br>
 * I am someone who is passionate about things that spark my curiosity🧐.
@@ -34,11 +33,9 @@
 <h3 align="center">🌈 My stats 🌈</h3>
 <div align="center">
 
-![Suyoung's GitHub stats](https://github-readme-stats.vercel.app./api?username=jeslsy&show_icons=true&theme=dark)
+![jeslsy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-soohyeon&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeslsy)](https://solved.ac/jeslsy/)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jeslsy)](https://solved.ac/jeslsy)
-
-[![mazandi profile](http://mazandi.herokuapp.com/api?handle={jeslsy}&theme=warm)](https://solved.ac/jeslsy)
   
 <img src="http://mazandi.herokuapp.com/api?handle={jeslsy}&theme=warm"/>
 </div>
