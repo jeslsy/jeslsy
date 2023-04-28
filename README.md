@@ -1,5 +1,6 @@
 
-<h3 align="center">👋 Hi there! I'm suyoung 👋</h3>
+<h2 align="center">👋 Hi there! I'm Su Young 👋</h2>
+=======
 
 <h3>📚 Tech Stack 📚</h3>
 <p>
