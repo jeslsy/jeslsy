@@ -19,6 +19,7 @@
 <h2></h2>
 <h3 align="center">💟 About Me 💟</h3>
 <p align="center">
+  
 * I hope to work as a `data engineer`.
 <br>
 * I am someone who is passionate about things that spark my curiosity🧐.
@@ -26,6 +27,7 @@
 * Once I commit to something, I give it my all🔥.
 <br>
 * 😙 Fun fact: I grow cherry tomatoes🍅, I am caring for it affectionately, believing that it showcases my abilities visibly.<br>
+  
 </p>
 
 <h2></h2>
@@ -36,4 +38,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jeslsy)](https://solved.ac/jeslsy)
 
+  
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={jeslsy}&theme=warm)
+<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=warm"/>
 </div>
