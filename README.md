@@ -31,9 +31,6 @@
 <h2></h2>
 <h3 align="center">🌈 My stats 🌈</h3>
 
-<p align="center">
-  
 ![Suyoung's GitHub stats](https://github-readme-stats.vercel.app./api?username=jeslsy&show_icons=true&theme=dracula)
-  
-</p>
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/profile/jeslsy)
