@@ -1,5 +1,5 @@
 
-<h2>👋 Hi there! I'm SuYoung 👋</h2>
+<h2>👋 Hello! I'm SuYoung 👋</h2>
 
 
 <h3>💻 Tech Stack 💻</h3>
@@ -19,11 +19,12 @@
 
  <!--[Suyoung's GitHub stats](https://github-readme-stats.vercel.app./api?username=jeslsy&show_icons=true&theme=white) -->
 
-<h2></h2>
 
-* I’m currently learning `data engineering`.<br>
+<h2></h2>
+<h3>🍀 About Me 🍀</h3>
+* I hope to work as a `data engineer`.<br>
 * I am someone who is `passionate` about things that spark my `curiosity`🧐.<br>
-* Once I commit to something, I give it my all.<br>
+* Once I commit to something, I give it my all🔥.<br>
 * 😙 Fun fact: I grow `cherry tomatoes🍅`, I am caring for it affectionately, believing that it showcases my abilities visibly.<br>
 
 
