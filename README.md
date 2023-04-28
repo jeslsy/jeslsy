@@ -39,5 +39,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jeslsy)](https://solved.ac/jeslsy)
 
   
-![[jeslsy]](http://mazandi.herokuapp.com/api?handle={(https://solved.ac/jeslsy)}&theme=warm)
+![[jeslsy]](http://mazandi.herokuapp.com/api?handle={jeslsy)}&theme=warm)
 </div>
