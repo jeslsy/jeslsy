@@ -20,11 +20,11 @@
 <h3>💟 About Me 💟</h3>
 * I hope to work as a `data engineer`.
 <br>
-* I am someone who is `passionate` about things that spark my `curiosity`🧐.
+* I am someone who is passionate about things that spark my curiosity🧐.
 <br>
 * Once I commit to something, I give it my all🔥.
 <br>
-* 😙 Fun fact: I grow `cherry tomatoes`🍅, I am caring for it affectionately, believing that it showcases my abilities visibly.<br>
+* 😙 Fun fact: I grow cherry tomatoes🍅, I am caring for it affectionately, believing that it showcases my abilities visibly.<br>
 
 <h2></h2>
 <h3>🌈 My stats 🌈</h3>
