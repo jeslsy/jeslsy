@@ -2,7 +2,7 @@
 <h2>👋 Hi there! I'm SuYoung 👋</h2>
 
 
-<h3>📚 Tech Stack 📚</h3>
+<h3>💻 Tech Stack 💻</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
@@ -21,9 +21,9 @@
 
 
 
-[] 🌱 I’m currently learning ...
-👩🏻‍💻 who am i
-i like
-- ⚡ Fun fact: ...
+🌱 I’m currently learning data engineering.
+🧐 I am someone who is passionate about things that spark my curiosity. (Once I commit to something, I give it my all.)
+🍅 I grow cherry tomatoes, and I care for them affectionately as I feel that they are a reflection of my abilities.
+⚡ Fun fact: ...
 
 
