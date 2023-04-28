@@ -25,7 +25,7 @@
 * I am someone who is `passionate` about things that spark my `curiosity`🧐.<br>
 * Once I commit to something, I give it my all🔥.<br>
 * 😙 Fun fact: I grow `cherry tomatoes🍅`, I am caring for it affectionately, believing that it showcases my abilities visibly.<br>
+<br><br>
 
-
-![Suyoung's GitHub stats](https://github-readme-stats.vercel.app./api?username=jeslsy&show_icons=true&theme=white)
+![Suyoung's GitHub stats](https://github-readme-stats.vercel.app./api?username=jeslsy&show_icons=true&theme=yellow)
 
