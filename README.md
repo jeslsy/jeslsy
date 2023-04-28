@@ -18,7 +18,7 @@
 
 <h2></h2>
 <h3>💟 About Me 💟</h3>
-* I hope to work as a `data engineer`.
+- I hope to work as a `data engineer`.
 <br>
 * I am someone who is passionate about things that spark my curiosity🧐.
 <br>
