@@ -1,5 +1,5 @@
 
-<h2>👋 Hello! I'm SuYoung 👋</h2>
+<h2 align="center">👋 Hello! I'm SuYoung 👋</h2>
 
 
 <h3>💻 Tech Stack 💻</h3>
