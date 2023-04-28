@@ -1,15 +1,11 @@
 ### Hi there 👋
 
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://user-images.githubusercontent.com/54103240/235198636-43f9c6bc-f84c-4774-9ec8-dddd51df2c6c.svg"/></a>
 
-
-![python](https://user-images.githubusercontent.com/54103240/235198354-e99c8f42-66fc-4a62-8e1a-54331d3d6cfe.svg)
 
 
 ![jeslsy's GitHub stats](https://github-readme-stats.vercel.app./api?username=jeslsy&show_icons=true&theme=dark)
-
-
 
 
 
