@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://user-images.githubusercontent.com/54103240/235198636-43f9c6bc-f84c-4774-9ec8-dddd51df2c6c.svg"/></a>
+<img src="https://img.shields.io/badge/python-#3776AB?style=flat&logo=python&logoColor=white"/>
 
 
 
