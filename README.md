@@ -20,15 +20,10 @@
 <h2></h2>
 <h3 align="center">💟 About Me 💟</h3>
 <p align="center">
-* I hope to work as a `data engineer`.
-<br></br>
-* I am someone who is passionate about things that spark my curiosity🧐.
-<br></br>
-* Once I commit to something, I give it my all🔥.
-<br></br>
-* 😙 Fun fact: I grow cherry tomatoes🍅, I am caring for it affectionately, believing that it showcases my abilities visibly.
-<br></br>
-  
+- I hope to work as a `data engineer`.
+- I am someone who is passionate about things that spark my curiosity🧐.
+- Once I commit to something, I give it my all🔥.
+- 😙 Fun fact: I grow cherry tomatoes🍅, I am caring for it affectionately, believing that it showcases my abilities visibly. 
 </p>
 
 <h2></h2>
