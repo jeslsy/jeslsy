@@ -1,13 +1,13 @@
 
 <h3>Hi 👋</h3>
 
-<h4>💟 About Me 💟</h4>
+<h4>About Me 💟</h4>
 <p>
 ⭐️ I hope to work as a data engineer.<br>
 ⭐️ I am someone who is passionate about things that spark my curiosity🧐.<br>
 <br>
   
-<h4>💻 Tech Stack 💻</h4>
+<h4>Tech Stack 💻</h4>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
@@ -23,7 +23,7 @@
 </p>
 <br>
 
-<h4>🌈 My stats 🌈</h4>
+<h4>My stats 🌈</h4>
 <div>
 
 ![jeslsy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-soohyeon&show_icons=true&theme=dark)
