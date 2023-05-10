@@ -20,8 +20,8 @@
 <h2></h2>
 <h3 align="center">💟 About Me 💟</h3>
 <p align="center">
-- I hope to work as a data engineer.<br>
-- I am someone who is passionate about things that spark my curiosity🧐.<br>
+⭐️ I hope to work as a data engineer.<br>
+⭐️ I am someone who is passionate about things that spark my curiosity🧐.<br>
 
 <h2></h2>
 <h3 align="center">🌈 My stats 🌈</h3>
