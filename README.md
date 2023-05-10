@@ -18,13 +18,11 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
 </p>
 
-<h2></h2>
 <h3>💟 About Me 💟</h3>
 <p>
 ⭐️ I hope to work as a data engineer.<br>
 ⭐️ I am someone who is passionate about things that spark my curiosity🧐.<br>
 
-<h2></h2>
 <h3>🌈 My stats 🌈</h3>
 <div>
 
