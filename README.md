@@ -1,9 +1,10 @@
 
-<h2 align="center">👋 Hello 👋</h2>
+<h2>👋 Hi! 👋</h2>
 
 
-<h3 align="center">💻 Tech Stack 💻</h3>
-<p align="center">
+<h3>💻 Tech Stack 💻</h3>
+<!-- <p align="center">-->
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
   <br>
@@ -18,14 +19,14 @@
 </p>
 
 <h2></h2>
-<h3 align="center">💟 About Me 💟</h3>
-<p align="center">
+<h3>💟 About Me 💟</h3>
+<p>
 ⭐️ I hope to work as a data engineer.<br>
 ⭐️ I am someone who is passionate about things that spark my curiosity🧐.<br>
 
 <h2></h2>
-<h3 align="center">🌈 My stats 🌈</h3>
-<div align="center">
+<h3>🌈 My stats 🌈</h3>
+<div>
 
 ![jeslsy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-soohyeon&show_icons=true&theme=dark)
 
