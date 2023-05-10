@@ -1,8 +1,13 @@
 
 <h2>👋 Hi! 👋</h2>
 
+<h4>💟 About Me 💟</h4>
+<p>
+⭐️ I hope to work as a data engineer.<br>
+⭐️ I am someone who is passionate about things that spark my curiosity🧐.<br>
+<br>
+  
 <h4>💻 Tech Stack 💻</h4>
-<!-- <p align="center">-->
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
@@ -17,11 +22,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
 </p>
 <br>
-<h4>💟 About Me 💟</h4>
-<p>
-⭐️ I hope to work as a data engineer.<br>
-⭐️ I am someone who is passionate about things that spark my curiosity🧐.<br>
-<br>
+
 <h4>🌈 My stats 🌈</h4>
 <div>
 
