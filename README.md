@@ -1,8 +1,8 @@
 
 <h2>👋 Hi! 👋</h2>
 
-
-<h3>💻 Tech Stack 💻</h3>
+<br>
+<h4>💻 Tech Stack 💻</h4>
 <!-- <p align="center">-->
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
@@ -18,12 +18,12 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
 </p>
 <br>
-<h3>💟 About Me 💟</h3>
+<h4>💟 About Me 💟</h4>
 <p>
 ⭐️ I hope to work as a data engineer.<br>
 ⭐️ I am someone who is passionate about things that spark my curiosity🧐.<br>
 <br>
-<h3>🌈 My stats 🌈</h3>
+<h4>🌈 My stats 🌈</h4>
 <div>
 
 ![jeslsy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-soohyeon&show_icons=true&theme=dark)
