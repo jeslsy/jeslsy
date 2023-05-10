@@ -1,7 +1,6 @@
 
 <h2>👋 Hi! 👋</h2>
 
-<br>
 <h4>💻 Tech Stack 💻</h4>
 <!-- <p align="center">-->
 <p>
