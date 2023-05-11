@@ -2,9 +2,8 @@
 <h4>💟 About Me</h4>
 <p>
   
-⭐️ I hope to work as a `data engineer`.
-  
-⭐️ I am someone who is passionate about things that spark my `curiosity`🧐.
+- I hope to work as a `data engineer`.
+- I am someone who is passionate about things that spark my `curiosity`🧐.
   
 <br>
 
