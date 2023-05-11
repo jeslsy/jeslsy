@@ -1,8 +1,14 @@
 
 <h4>💟 About Me</h4>
 <p>
-⭐️ I hope to work as a data engineer.<br>
-⭐️ I am someone who is passionate about things that spark my curiosity🧐.<br>
+⭐️ I hope to work as a `data engineer`.
+  
+<br>
+
+⭐️ I am someone who is passionate about things that spark my `curiosity`🧐.
+  
+<br>
+
 <br>
   
 <h4>💻 Tech Stack</h4>
