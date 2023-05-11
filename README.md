@@ -3,6 +3,7 @@
 <p>
   
 ⭐️ I hope to work as a `data engineer`.
+  
 ⭐️ I am someone who is passionate about things that spark my `curiosity`🧐.
   
 <br>
