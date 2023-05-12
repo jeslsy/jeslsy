@@ -24,10 +24,3 @@
 </p>
 <br>
 
-<h4>🌈 My stats</h4>
-<div>
-
-![jeslsy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeslsy&show_icons=true&theme=dark)
-
-
-</div>
