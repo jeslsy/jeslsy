@@ -4,8 +4,7 @@
   
 - I hope to work as a `data engineer`.
 - I am someone who is passionate about things that spark my `curiosity`🧐.
-  
-<br>
+</p>  
 
   
 <h4>💻 Tech Stack</h4>
@@ -22,5 +21,4 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
 </p>
-<br>
 
